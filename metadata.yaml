@@ -1,0 +1,37 @@
+_repo: Maggie--A-Girl-of-the-Streets_447
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crane, Stephen
+    alias: Smith, Johnston
+    birthdate: 1871
+    deathdate: 1900
+    gutenberg_agent_id: '55'
+    url: http://www.gutenberg.org/2009/agents/55
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Crane
+description: 'Maggie: A Girl of the Streets is an 1893 novel by American author Stephen
+  Crane. Often called a novella because of its short length, it was Crane''s first
+  published fictional work. Because the work was considered too risqué by publishers,
+  Crane, who was 21 years-old at the time, had to finance the publication of the novel
+  himself. The novel takes place in the Bowery, a New York neighborhood in lower Manhattan.-
+  Excerpted from Wikipedia, the free encyclopedia.'
+gutenberg_issued: '1996-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Suicide victims -- Fiction'
+- !lcsh 'Slums -- Fiction'
+- !lcsh 'Poor families -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Poor women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Prostitutes -- Fiction'
+- !lcsh 'Psychological fiction'
+- GITenberg
+title: 'Maggie: A Girl of the Streets'
+url: http://www.gutenberg.org/ebooks/447
