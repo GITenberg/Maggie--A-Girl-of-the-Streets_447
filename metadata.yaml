@@ -1,5 +1,8 @@
 _repo: Maggie--A-Girl-of-the-Streets_447
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Crane, Stephen
@@ -15,6 +18,8 @@ description: 'Maggie: A Girl of the Streets is an 1893 novel by American author 
   Crane, who was 21 years-old at the time, had to finance the publication of the novel
   himself. The novel takes place in the Bowery, a New York neighborhood in lower Manhattan.-
   Excerpted from Wikipedia, the free encyclopedia.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/447#Maggie--A-Girl-of-the-Streets
 gutenberg_issued: '1996-02-01'
 gutenberg_type: Text
 identifiers:
